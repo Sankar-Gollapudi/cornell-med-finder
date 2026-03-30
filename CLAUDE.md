@@ -32,8 +32,8 @@ For each school listed above, use WebSearch and WebFetch to find Cornell Univers
 - Must have a verifiable web presence — STRONGLY prefer LinkedIn profile URLs over department pages or news articles (LinkedIn URLs are stable, department pages go stale)
 - Use their FULL LEGAL NAME (not initials or nicknames)
 - Skip anyone already in the existing contacts list
-- STRONGLY PREFER recent graduates and current students (Cornell class of 2018-2026, currently in med school or recently matched into residency)
-- Faculty and attendings who graduated Cornell 10+ years ago are LOWER PRIORITY — only include them if you can't find current students
+- HIGHEST PRIORITY: Current MD/MD-PhD students and recent MD graduates (Cornell class of 2018-2026, currently in med school or recently matched into residency)
+- LOWER PRIORITY: PhD-only students, faculty, attendings, or anyone who graduated Cornell 10+ years ago — only include them if you can't find current/recent MD students
 
 Search strategies (prioritize recent sources):
 - LinkedIn: "Cornell University" + "[med school name]" + "MD candidate" or "medical student"

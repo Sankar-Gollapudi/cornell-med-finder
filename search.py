@@ -53,7 +53,7 @@ DETAILS = (
 QUALIFICATION = (
     "Must be a verified Cornell University undergraduate alumnus/alumna who is currently "
     "enrolled in or graduated from an MD or MD/PhD program at a top-20 US medical school. "
-    "PhD-only students are acceptable but strongly prefer MD/MD-PhD. "
+    "PhD-only students are acceptable but HIGHEST PRIORITY is current or recently graduated MD/MD-PhD students. "
     "CRITICAL: Residency does NOT count — if someone got their MD elsewhere and is only "
     "at a top school for residency or fellowship, they do NOT qualify. You must verify "
     "WHERE they earned their MD degree. "
@@ -325,7 +325,8 @@ SEARCH STRATEGY — be thorough and creative:
 - Cross-reference multiple sources to verify each result
 - Only include results where you found concrete evidence
 - Try DIFFERENT search queries than obvious ones — dig deeper
-- STRONGLY PREFER recent graduates and current students (Cornell class of 2018-2026)
+- HIGHEST PRIORITY: current MD/MD-PhD students and recent MD graduates (Cornell class of 2018-2026)
+- LOWER PRIORITY: PhD-only students, faculty, or anyone who graduated Cornell 10+ years ago
 - For EVERY person, include a verifiable source URL in prospect_notes (LinkedIn preferred)
 
 For each result, the company_name field should be the ORGANIZATION/INSTITUTION name (e.g. the medical school).
