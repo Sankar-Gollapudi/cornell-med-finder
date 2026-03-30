@@ -1,0 +1,59 @@
+[
+  {
+    "company_name": "Stanford School of Medicine",
+    "domain": "med.stanford.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Stanford",
+    "state": "CA",
+    "suggested_title": "Owen N. Witte - MD Alumnus, Professor at UCLA (Stanford MD 1976)",
+    "prospect_notes": "Owen N. Witte received his B.S. in Microbiology from Cornell University in 1971 (Cornell class of 1971) and his MD from Stanford University School of Medicine in 1976. He went on to do postdoctoral training at MIT with Nobel laureate David Baltimore. He is currently a University Professor of Microbiology, Immunology, and Molecular Genetics at UCLA and the founding director emeritus of the UCLA Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research. He is a member of the National Academy of Sciences and the National Academy of Medicine. His landmark research includes discovery of BCR-ABL oncoproteins in leukemias and co-discovery of Bruton's tyrosine kinase gene. He received Stanford Medicine's Arthur Kornberg and Paul Berg Lifetime Achievement Award in Biomedical Sciences. Note: Cornell class of 1971 - LOW PRIORITY as a very early graduate.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Owen",
+      "last_name": "Witte",
+      "title": "MD Alumnus (Stanford 1976), University Professor at UCLA",
+      "email": "",
+      "source_url": "https://med.stanford.edu/alumni/alumni-community/class-notes/OwenWitte.html",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Stanford School of Medicine",
+    "domain": "med.stanford.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Stanford",
+    "state": "CA",
+    "suggested_title": "Peter S. Kim - MD/PhD Alumnus (Stanford MSTP), Ludwig Professor of Biochemistry",
+    "prospect_notes": "Peter S. Kim received his A.B. in Chemistry (magna cum laude) from Cornell University in 1979 (Cornell class of 1979) and his PhD in Biochemistry from Stanford University through the Medical Scientist Training Program (MSTP), which confers both MD and PhD. He was a SENS Research Fellow and MSTP student at Stanford, conducting research under Robert L. Baldwin. He later became President of Merck Research Laboratories (2003-2013). He is currently the Virginia and D.K. Ludwig Professor of Biochemistry at Stanford University School of Medicine, an Institute Scholar at Stanford ChEM-H, and Lead Investigator of the Infectious Disease Initiative at Chan Zuckerberg Biohub. He is a member of the National Academy of Sciences, National Academy of Medicine, and National Academy of Engineering. Note: Cornell class of 1979 - LOW PRIORITY as an early graduate.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Peter",
+      "last_name": "Kim",
+      "title": "MD/PhD Alumnus (Stanford MSTP), Ludwig Professor of Biochemistry at Stanford",
+      "email": "",
+      "source_url": "https://profiles.stanford.edu/peterkim",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Stanford School of Medicine",
+    "domain": "med.stanford.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Stanford",
+    "state": "CA",
+    "suggested_title": "Susan Marqusee - MD/PhD Alumna (Stanford 1990), NSF Director of Biological Sciences",
+    "prospect_notes": "Susan Marqusee received her A.B. in Physics and Chemistry (magna cum laude) from Cornell University in 1982 (Cornell class of 1982) and her M.D. and Ph.D. in Biochemistry from Stanford University in 1990. At Stanford, she trained with Robert Baldwin on intrinsic helical properties of amino acids. She completed postdoctoral work at MIT, then joined UC Berkeley faculty in 1992. She is Distinguished Professor of Molecular and Cell Biology and Chemistry at UC Berkeley and was selected by NSF to lead the Directorate for Biological Sciences in 2023. She is a member of the National Academy of Sciences (elected 2016) and American Academy of Arts and Sciences (elected 2013). She received the Margaret Dayhoff Award and Dorothy Crowfoot Hodgkin Award from major scientific societies. Note: Cornell class of 1982 - LOW PRIORITY as an early graduate.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Susan",
+      "last_name": "Marqusee",
+      "title": "MD/PhD Alumna (Stanford 1990), Distinguished Professor at UC Berkeley & NSF BIO Director",
+      "email": "",
+      "source_url": "https://foundationfar.org/about/people/susan-marqusee-ph-d-m-d/",
+      "confidence": "high"
+    }
+  }
+]
