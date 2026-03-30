@@ -1,20 +1,39 @@
 [
   {
-    "company_name": "Stanford University School of Medicine",
-    "domain": "med.stanford.edu",
+    "company_name": "Duke University School of Medicine",
+    "domain": "medschool.duke.edu",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Stanford",
-    "state": "CA",
-    "suggested_title": "Longsha Liu - MD Candidate at Stanford School of Medicine",
-    "prospect_notes": "Longsha Liu is an MD candidate at Stanford University School of Medicine and a 2022 Knight-Hennessy Scholar. He graduated Phi Beta Kappa from Cornell University (Ithaca) with a B.S. in Neurobiology and a minor in Business for the Life Sciences, receiving the Cornell Hunter Rawlings Presidential Research Scholar award and the 2021 Cornell Student Business of the Year award. At Cornell, he co-founded Cornell Biomedical Device and Vita Innovations, a MedTech startup focused on patient monitoring for emergency medicine. Before Stanford, he completed a SENS Research Fellowship at Harvard Medical School focused on novel glioblastoma therapeutic design. At Stanford, he co-teaches courses on Generative AI in Healthcare (MED213 and MED216) and is active in the Society for Academic Emergency Medicine.",
+    "city": "Durham",
+    "state": "NC",
+    "suggested_title": "David Labib - MD/PhD Student (MSTP) at Duke University School of Medicine",
+    "prospect_notes": "David Labib graduated from Cornell University in 2022 and is currently a GS2 (Graduate School Year 2) student in Duke's Medical Scientist Training Program (MSTP), pursuing a combined MD/PhD. His research interests include neurobiology, developmental and cell biology, and neuro-immune interactions, with his PhD in the Molecular Cancer Biology program under mentor Micah Luftig, PhD. As an undergraduate at Cornell, he served as a teaching assistant in the Department of Nutritional Sciences and conducted research on reactive astrocytes at The New York Stem Cell Foundation and in the Han Lab at the Weill Institute for Cell and Molecular Biology. He is listed on Duke's official MSTP outreach directory under Cornell University with contact email david.labib@duke.edu. LinkedIn is publicly available and confirmed active.",
     "_enrichment": {
       "found": true,
-      "first_name": "Longsha",
-      "last_name": "Liu",
-      "title": "MD Candidate, Knight-Hennessy Scholar",
+      "first_name": "David",
+      "last_name": "Labib",
+      "title": "MD/PhD Student (MSTP GS2)",
+      "email": "david.labib@duke.edu",
+      "source_url": "https://www.linkedin.com/in/david-labib/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Duke University School of Medicine",
+    "domain": "medschool.duke.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Durham",
+    "state": "NC",
+    "suggested_title": "Ethan Agritelley - MS4 MD Student at Duke University School of Medicine",
+    "prospect_notes": "Ethan Agritelley graduated from Cornell University's College of Human Ecology (on the 2019-20 football roster, likely Cornell class of 2021 or 2022) where he played varsity football as a kicker, and is currently a fourth-year MD student (MS4) at Duke University School of Medicine. He grew up in Lake Oswego, Oregon (outside Portland) and matriculated to Duke for medical school. He is active in surgical oncology research, co-authoring a 2024 AACR abstract on single-cell and spatial immune analysis in pancreatic ductal adenocarcinoma (PDAC) and presenting at SSO2025 on a localized pancreatic cancer trial from the Duke Surgical Oncology group. He also ran the 2024 Boston Marathon as a Dana-Farber Cancer Institute fundraiser while a third-year student. Confirmed via Cornell Athletics roster, Medicine in Motion Duke chapter profile, and AACR/SSO2025 publications.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Ethan",
+      "last_name": "Agritelley",
+      "title": "MD Student (MS4)",
       "email": "",
-      "source_url": "https://knight-hennessy.stanford.edu/people/longsha-liu",
+      "source_url": "https://www.linkedin.com/in/ethan-agritelley-3bbb33126",
       "confidence": "high"
     }
   }
