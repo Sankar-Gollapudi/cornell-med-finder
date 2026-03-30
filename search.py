@@ -68,6 +68,7 @@ SEARCH_VERTICALS = [
     "Duke School of Medicine Cornell alumni",
     "WashU School of Medicine Cornell alumni",
     "Emory School of Medicine Cornell alumni",
+    "Mayo Clinic Alix School of Medicine Cornell alumni",
 ]
 
 
@@ -252,6 +253,7 @@ VERTICAL_TO_DB_KEYWORDS = {
     "Duke School of Medicine Cornell alumni": ["duke"],
     "WashU School of Medicine Cornell alumni": ["washu", "washington university", "wustl"],
     "Emory School of Medicine Cornell alumni": ["emory"],
+    "Mayo Clinic Alix School of Medicine Cornell alumni": ["mayo", "alix"],
 }
 
 
