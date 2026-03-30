@@ -1,39 +1,20 @@
 [
   {
-    "company_name": "Johns Hopkins School of Medicine",
-    "domain": "hopkinsmedicine.org",
+    "company_name": "Emory University School of Medicine",
+    "domain": "med.emory.edu",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Baltimore",
-    "state": "MD",
-    "suggested_title": "Elisabeth Abeles - MD Graduate (Class of 2023), General Surgery Resident",
-    "prospect_notes": "Elisabeth Abeles completed her BS in Arts and Sciences at Cornell University as a Hunter R. Rawlings III Cornell Presidential Research Scholar and member of the Singh Lab (Immunotherapy and Cell Engineering Laboratory) in the Department of Mechanical and Aerospace Engineering. She was accepted to Johns Hopkins School of Medicine in 2019 and earned her MD with the Class of 2023. She conducted immunotherapy and biomedical engineering research as an undergrad and medical student. She is now a General Surgery Resident at Beth Israel Deaconess Medical Center / Harvard Medical School and also lists UCSF Department of Surgery experience. Her Cornell undergrad and Hopkins MD are confirmed by the Singh Lab Cornell blog post (June 2019) and the Singh Lab Georgia Tech alumni page.",
+    "city": "Atlanta",
+    "state": "GA",
+    "suggested_title": "Sumeet Sharma - MD/PhD Graduate & Psychiatry Fellow at Emory School of Medicine",
+    "prospect_notes": "Sumeet Sharma earned his BA from Cornell University (Ithaca campus) and his MD/PhD from Emory University School of Medicine through the MSTP (Medical Scientist Training Program), graduating in 2021. He is currently a PGY4 Child and Adolescent Psychiatry Research Track Fellow at Emory University. His PhD dissertation, co-mentored by Kerry Ressler and Peng Jin, focused on the intersection between genetic risk loci in humans and regulation of stress-related genes in animal models, with highly translational work pairing large genomic datasets from trauma individuals with animal models of stress. He has published extensively in journals including the Journal of Genetics and Genomics, PLoS Genetics, Frontiers in Psychiatry, and Progress in Neuro-Psychopharmacology & Biological Psychiatry, and received Honorable Mention recognition for the 2023 NIMH Outstanding Resident Award. His current research investigates immune system dynamics in the developing brain and how psychosocial stress impacts these processes in adolescent animals.",
     "_enrichment": {
       "found": true,
-      "first_name": "Elisabeth",
-      "last_name": "Abeles",
-      "title": "MD, General Surgery Resident (Hopkins MD Class of 2023)",
+      "first_name": "Sumeet",
+      "last_name": "Sharma",
+      "title": "MD/PhD Graduate (MSTP) & Child and Adolescent Psychiatry Research Track Fellow",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/elisabeth-abeles-m-d-98528498/",
-      "confidence": "high"
-    }
-  },
-  {
-    "company_name": "Johns Hopkins School of Medicine",
-    "domain": "hopkinsmedicine.org",
-    "industry": "Medical Education",
-    "size": "1001-5000",
-    "city": "Baltimore",
-    "state": "MD",
-    "suggested_title": "Kate Schole - MD/PhD Student, MSTP Biochemistry (Entering Class of 2019)",
-    "prospect_notes": "Kate Schole attended Cornell University for her undergraduate degree and matriculated into the Johns Hopkins University MD-PhD MSTP program with the entering class of 2019. Her graduate program is Biochemistry, Cellular and Molecular Biology, with advisor M. Anderson. The Hopkins MSTP is one of the top NIH-funded physician-scientist training programs in the nation, providing full tuition and stipend. She is a current MD/PhD student combining medical training with doctoral research in biochemistry. Her Cornell undergrad and Hopkins MD/PhD enrollment are confirmed by the official Johns Hopkins MSTP entering class webpage listing her by name, institution, and program.",
-    "_enrichment": {
-      "found": true,
-      "first_name": "Kate",
-      "last_name": "Schole",
-      "title": "MD/PhD Student, Biochemistry, Cellular and Molecular Biology (MSTP, Entering Class of 2019)",
-      "email": "",
-      "source_url": "https://mdphd.johnshopkins.edu/class2019/",
+      "source_url": "https://med.emory.edu/departments/psychiatry/education/general_residency/residents/resident_bios/sharma_sumeet.html",
       "confidence": "high"
     }
   }
