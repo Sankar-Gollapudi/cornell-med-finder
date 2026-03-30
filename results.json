@@ -1,0 +1,78 @@
+[
+  {
+    "company_name": "Perelman School of Medicine, University of Pennsylvania",
+    "domain": "med.upenn.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Philadelphia",
+    "state": "PA",
+    "suggested_title": "Jenelle Safadi - MD, Perelman School of Medicine (Class of 2025)",
+    "prospect_notes": "Jenelle Safadi graduated from Cornell University in 2020, where she conducted undergraduate research in the Department of Molecular Medicine at the College of Veterinary Medicine, co-authoring a published biochemistry study on MBLAC2 enzyme activity. She then attended the Perelman School of Medicine at the University of Pennsylvania as part of the MD Class of 2025. During medical school, she was a member of APENNDX (the Penn medical student community platform) and published multiple research papers affiliated with Perelman, including a case study on giant cell arteritis in a patient with renal cell carcinoma and a study on CABG procedures presented at the AATS Annual Meeting. She completed her MD in May 2025 and is now in residency. Her research interests span rheumatology, cardiothoracic surgery, and otolaryngology.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Jenelle",
+      "last_name": "Safadi",
+      "title": "MD, Class of 2025",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/jenelle-m-safadi-368b4816a/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Perelman School of Medicine, University of Pennsylvania",
+    "domain": "med.upenn.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Philadelphia",
+    "state": "PA",
+    "suggested_title": "Lev Krasnovsky - MD, Perelman School of Medicine (Class of 2025)",
+    "prospect_notes": "Lev Krasnovsky graduated from Cornell University in 2021, majoring in Biological Sciences with a minor in Nutrition, where he conducted research on bacterial endosymbionts of fungi in the Pawlowska Lab. He was also a founding member of the Botanic Buzzline project at Cornell Botanic Gardens, leading an environmental conservation initiative. He went on to attend the Perelman School of Medicine at the University of Pennsylvania (MD Class of 2025), where he was inducted into the Gold Humanism Honor Society and won the prestigious Edward Raffensperger Research Prize in 2024. At Penn, he redesigned the culinary medicine elective and expanded its community engagement component. He co-authored multiple publications, including research on AI-driven colonoscopy preparation prediction and nutritional biomarkers for food security.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Lev",
+      "last_name": "Krasnovsky",
+      "title": "MD, Class of 2025",
+      "email": "lev.krasnovsky@pennmedicine.upenn.edu",
+      "source_url": "https://www.linkedin.com/in/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Perelman School of Medicine, University of Pennsylvania",
+    "domain": "med.upenn.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Philadelphia",
+    "state": "PA",
+    "suggested_title": "Lancelot Herpin - MD Candidate, Perelman School of Medicine",
+    "prospect_notes": "Lancelot Herpin graduated summa cum laude from Cornell University in 2020 with a B.A. in Biology and Chemistry (College of Arts and Sciences), where he conducted research on cell polarity in budding yeast and wrote a Senior Honors Thesis. As a Millennium Fellow at Cornell (2019 cohort), he launched the Greater Ithaca Health Initiative to assist the Ithaca Free Clinic in establishing a mobile health clinic for rural communities. He went on to attend the Perelman School of Medicine at the University of Pennsylvania, where he was inducted into the Gold Humanism Honor Society (GHHS) and served as co-president. His clinical interests include otorhinolaryngology, and he is pursuing a master of science in translational research in the Department of Rhinology. He also works as an MCAT tutor with MedSchoolCoach.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Lancelot",
+      "last_name": "Herpin",
+      "title": "MD Candidate",
+      "email": "",
+      "source_url": "https://www.medschoolcoach.com/team/lancelot-herpin/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Perelman School of Medicine, University of Pennsylvania",
+    "domain": "med.upenn.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Philadelphia",
+    "state": "PA",
+    "suggested_title": "Sanjna Bhatia - MD, Perelman School of Medicine (Class of 2026)",
+    "prospect_notes": "Sanjna Bhatia attended Cornell University for her undergraduate degree in Biology, growing up in upstate New York with family ties between New Jersey and India. She attended the Perelman School of Medicine at the University of Pennsylvania and was inducted into the Gold Humanism Honor Society (GHHS) as an MS3, serving as Chair of Media. At Penn, she was involved with Project SAFE, Covenant House, Students Against Racism in Medicine, and the Penn Med Breast Health Initiative, with a passion for global health and medical education. She matched into Pediatrics at the 2026 Match Day. Her interests include Med-Peds, global health, and health equity.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Sanjna",
+      "last_name": "Bhatia",
+      "title": "MD, Class of 2026",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/sanjna-bhatia-18a279179/",
+      "confidence": "medium"
+    }
+  }
+]
