@@ -25,8 +25,10 @@ for v in verticals: print(f'  - {v}')
 ### Step 2: Search the web yourself
 
 For each school listed above, use WebSearch and WebFetch to find Cornell University undergraduate alumni who went to that medical school. Requirements:
-- Must be a verified Cornell University UNDERGRADUATE alumnus (not grad school)
-- Must be at a top-20 US medical school
+- Must be a verified Cornell University UNDERGRADUATE alumnus (not grad school, not Weill Cornell graduate programs)
+- Must be ENROLLED IN or GRADUATED FROM an MD or MD/PhD program at a top-20 US medical school. PhD-only students are acceptable but strongly prefer MD/MD-PhD.
+- **CRITICAL: Residency does NOT count.** If someone did their MD at a different school and is only at a top school for residency/fellowship, they do NOT qualify. You must verify WHERE they got their MD, not just where they currently work.
+- **CRITICAL: You must CONFIRM Cornell undergrad with evidence.** Do not include someone just because they appear in a search combining "Cornell" and a med school. You need a source (LinkedIn, directory, article) that explicitly says they went to Cornell for undergrad.
 - Must have a verifiable web presence — STRONGLY prefer LinkedIn profile URLs over department pages or news articles (LinkedIn URLs are stable, department pages go stale)
 - Use their FULL LEGAL NAME (not initials or nicknames)
 - Skip anyone already in the existing contacts list

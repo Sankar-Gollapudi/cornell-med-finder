@@ -52,9 +52,16 @@ DETAILS = (
 
 QUALIFICATION = (
     "Must be a verified Cornell University undergraduate alumnus/alumna who is currently "
-    "attending or graduated from a top-20 US medical school. Must have a LinkedIn "
-    "profile or other verifiable web presence confirming both Cornell undergrad AND top "
-    "med school enrollment. Do not include Cornell graduate school students — only undergrad."
+    "enrolled in or graduated from an MD or MD/PhD program at a top-20 US medical school. "
+    "PhD-only students are acceptable but strongly prefer MD/MD-PhD. "
+    "CRITICAL: Residency does NOT count — if someone got their MD elsewhere and is only "
+    "at a top school for residency or fellowship, they do NOT qualify. You must verify "
+    "WHERE they earned their MD degree. "
+    "CRITICAL: You must CONFIRM Cornell undergrad with concrete evidence (LinkedIn, directory, "
+    "article). Do not include someone just because they appear in a combined search — you need "
+    "a source that explicitly states they attended Cornell for undergrad. "
+    "Must have a LinkedIn profile or other verifiable web presence confirming both. "
+    "Do not include Cornell graduate school students — only undergrad."
 )
 
 SEARCH_VERTICALS = [
