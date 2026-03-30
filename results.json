@@ -1,20 +1,77 @@
 [
   {
-    "company_name": "Emory University School of Medicine",
-    "domain": "med.emory.edu",
+    "company_name": "Washington University School of Medicine",
+    "domain": "medicine.washu.edu",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Atlanta",
-    "state": "GA",
-    "suggested_title": "Sumeet Sharma - MD/PhD Graduate & Psychiatry Fellow at Emory School of Medicine",
-    "prospect_notes": "Sumeet Sharma earned his BA from Cornell University (Ithaca campus) and his MD/PhD from Emory University School of Medicine through the MSTP (Medical Scientist Training Program), graduating in 2021. He is currently a PGY4 Child and Adolescent Psychiatry Research Track Fellow at Emory University. His PhD dissertation, co-mentored by Kerry Ressler and Peng Jin, focused on the intersection between genetic risk loci in humans and regulation of stress-related genes in animal models, with highly translational work pairing large genomic datasets from trauma individuals with animal models of stress. He has published extensively in journals including the Journal of Genetics and Genomics, PLoS Genetics, Frontiers in Psychiatry, and Progress in Neuro-Psychopharmacology & Biological Psychiatry, and received Honorable Mention recognition for the 2023 NIMH Outstanding Resident Award. His current research investigates immune system dynamics in the developing brain and how psychosocial stress impacts these processes in adolescent animals.",
+    "city": "St. Louis",
+    "state": "MO",
+    "suggested_title": "Mason Muir - MD Student at WashU School of Medicine",
+    "prospect_notes": "Mason Muir is an MD student at Washington University School of Medicine (Class of 2028), originally from Moline, IL. He completed his undergraduate degree in Molecular Biology and Genetics at Cornell University. He serves as an Admissions Liaison for WashU Medicine, helping prospective students learn about the program. His interests include discussing resources at WashU, places to live in St. Louis, St. Louis food scene, Forest Park, and the WashU student/faculty community feel. He also discusses the experience of having a partner/family in medical school. LinkedIn profile confirms his Cornell University Department of Molecular Biology and Genetics background and current enrollment at WashU School of Medicine.",
     "_enrichment": {
       "found": true,
-      "first_name": "Sumeet",
-      "last_name": "Sharma",
-      "title": "MD/PhD Graduate (MSTP) & Child and Adolescent Psychiatry Research Track Fellow",
+      "first_name": "Mason",
+      "last_name": "Muir",
+      "title": "MD Student, Class of 2028",
       "email": "",
-      "source_url": "https://med.emory.edu/departments/psychiatry/education/general_residency/residents/resident_bios/sharma_sumeet.html",
+      "source_url": "https://mdadmissions.wustl.edu/people/mason-muir-class-of-2028/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Washington University School of Medicine",
+    "domain": "medicine.washu.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "St. Louis",
+    "state": "MO",
+    "suggested_title": "Clara Liu - MD/PhD Student (MSTP) at WashU School of Medicine",
+    "prospect_notes": "Clara Liu (full name Jingxian 'Clara' Liu) is an MD/PhD student in Washington University's Medical Scientist Training Program (MSTP), enrolled in the Computational and Systems Biology PhD program under advisor Li Ding, PhD. She grew up in Beijing, China and studied biology and computer science at Cornell University, graduating in 2019. She enrolled in the WashU MSTP in 2019. Her research focuses on multi-omic investigation of tumor clonal evolution, studying how tumor cells accumulate genetic alterations during malignant transformation and interact with the tumor microenvironment. She co-authored a 2024 Nature paper on tumour evolution and microenvironment interactions in 2D and 3D space (Nature, 634(8036):1178-86).",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Clara",
+      "last_name": "Liu",
+      "title": "MD/PhD Student (MSTP), Computational and Systems Biology",
+      "email": "",
+      "source_url": "https://mstp.wustl.edu/people/clara-liu/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Washington University School of Medicine",
+    "domain": "medicine.washu.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "St. Louis",
+    "state": "MO",
+    "suggested_title": "Virginia Hsu - MD/PhD Student (MSTP) at WashU School of Medicine",
+    "prospect_notes": "Virginia Hsu is an MD/PhD student in Washington University's Medical Scientist Training Program (MSTP), enrolled in the Neurosciences PhD program under advisor Shin-ichiro Imai, MD, PhD. She completed her undergraduate degree at Cornell University, graduating in December 2016 (confirmed via Raguso Lab alumni page at Cornell). Her research focuses on NAD+ metabolism and aging: brain NAD+ levels decrease during aging, and she studies how boosting cellular NAD+ via precursor administration ameliorates age-dependent pathologies and metabolic changes. She is affiliated with the Imai Lab in the Department of Developmental Biology at WashU Medicine.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Virginia",
+      "last_name": "Hsu",
+      "title": "MD/PhD Student (MSTP), Neurosciences",
+      "email": "",
+      "source_url": "https://mstp.wustl.edu/people/virginia-hsu/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Washington University School of Medicine",
+    "domain": "medicine.washu.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "St. Louis",
+    "state": "MO",
+    "suggested_title": "Amith Punyala - MD/PhD Student (MSTP) at WashU School of Medicine",
+    "prospect_notes": "Amith Punyala is an MD/PhD student in Washington University's Medical Scientist Training Program (MSTP), enrolled in the Molecular Microbiology and Microbial Pathogenesis PhD program under advisor Sean P. J. Whelan, PhD (Department Chair). He graduated from Cornell University in 2019 (Twitter confirms 'Cornell University 19') with a background in Chemistry and Chemical Biology, receiving an undergraduate award from Cornell's Department of Chemistry and Chemical Biology in 2016-17 and contributing to published research on Wnt/PCP signaling at the Weill Institute for Cell and Molecular Biology. His current MSTP research focuses on determining host factors necessary for the entry and replication of Thogotoviruses and Rhabdoviruses in the Whelan virology lab.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Amith",
+      "last_name": "Punyala",
+      "title": "MD/PhD Student (MSTP), Molecular Microbiology and Microbial Pathogenesis",
+      "email": "",
+      "source_url": "https://mstp.wustl.edu/people/amith-punyala/",
       "confidence": "high"
     }
   }
