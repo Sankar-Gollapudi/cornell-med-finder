@@ -29,7 +29,8 @@ For each school listed above, use WebSearch and WebFetch to find Cornell Univers
 - Must be ENROLLED IN or GRADUATED FROM an MD or MD/PhD program at a top-20 US medical school. PhD-only students are acceptable but strongly prefer MD/MD-PhD.
 - **CRITICAL: Residency does NOT count.** If someone did their MD at a different school and is only at a top school for residency/fellowship, they do NOT qualify. You must verify WHERE they got their MD, not just where they currently work.
 - **CRITICAL: You must CONFIRM Cornell undergrad with evidence.** Do not include someone just because they appear in a search combining "Cornell" and a med school. You need a source (LinkedIn, directory, article) that explicitly says they went to Cornell for undergrad.
-- Must have a verifiable web presence — STRONGLY prefer LinkedIn profile URLs over department pages or news articles (LinkedIn URLs are stable, department pages go stale)
+- Must have a verifiable web presence — REQUIRE LinkedIn profile verification whenever possible. A university profile page alone is NOT sufficient to confirm someone is an MD student (they could be staff, postdoc, research associate, etc.). LinkedIn shows their actual degree program.
+- If you cannot find a LinkedIn profile, you need at least TWO other sources confirming they are in an MD/MD-PhD program (e.g. class roster + news article, Match Day list + student org page)
 - Use their FULL LEGAL NAME (not initials or nicknames)
 - Skip anyone already in the existing contacts list
 - HIGHEST PRIORITY: Current MD/MD-PhD students and recent MD graduates (Cornell class of 2018-2026, currently in med school or recently matched into residency)

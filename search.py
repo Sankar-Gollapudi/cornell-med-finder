@@ -60,7 +60,10 @@ QUALIFICATION = (
     "CRITICAL: You must CONFIRM Cornell undergrad with concrete evidence (LinkedIn, directory, "
     "article). Do not include someone just because they appear in a combined search — you need "
     "a source that explicitly states they attended Cornell for undergrad. "
-    "Must have a LinkedIn profile or other verifiable web presence confirming both. "
+    "REQUIRE LinkedIn verification whenever possible — a university profile page alone is NOT enough "
+    "to confirm someone is an MD student (they could be staff, postdoc, or research associate). "
+    "LinkedIn shows their actual degree program. Without LinkedIn, need at least TWO other sources "
+    "confirming MD/MD-PhD enrollment (e.g. class roster + news article). "
     "Do not include Cornell graduate school students — only undergrad."
 )
 
