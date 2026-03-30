@@ -1,39 +1,58 @@
 [
   {
-    "company_name": "Columbia Vagelos College of Physicians and Surgeons",
-    "domain": "vagelos.columbia.edu",
+    "company_name": "Johns Hopkins School of Medicine",
+    "domain": "hopkinsmedicine.org",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "New York",
-    "state": "NY",
-    "suggested_title": "Kevin Wang - Resident Physician, Anesthesiology at Columbia VP&S / NYP",
-    "prospect_notes": "Kevin Wang is a Cornell University undergraduate alumnus who completed his MD at Columbia University Vagelos College of Physicians and Surgeons. As a Cornell undergrad he was highly engaged in pre-health activities including Co-President of Cornell Alternative Breaks (leading an 84-student spring break service-learning program), President/Senior Advisor of Cornell Club of Taiwan, Planning Board Leader of Cornell Undergraduate Health Cooperative, and member of Alpha Epsilon Delta Pre-Health Honor Society. At Columbia VP&S he was Communications Chair of the VP&S Human Rights Initiative and Asylum Clinic, Education Chair of the Asian Pacific American Medical Students Association, and Vaccine Outreach Project Lead for the COVID-19 Student Service Corps. He matched into Anesthesiology and is now a Resident Physician at New York-Presbyterian/Columbia University Irving Medical Center. Likely Cornell class of 2018-2020.",
+    "city": "Baltimore",
+    "state": "MD",
+    "suggested_title": "Anirudh Sharma - MD Candidate at Johns Hopkins School of Medicine",
+    "prospect_notes": "Anirudh Sharma is a Cornell University Class of 2023 alumnus who majored in biology (neurobiology) and is now an MD candidate at The Johns Hopkins University School of Medicine in Baltimore. At Cornell, he served as a student advisor at the Office of Undergraduate Biology, providing tutoring in biology and chemistry, and wrote for the Science section of the Cornell Daily Sun covering faculty research. His Cornell CALS student advisor profile confirms Class of 2023. He is now pursuing his MD at Hopkins, where he is building on his neurobiology background.",
     "_enrichment": {
       "found": true,
-      "first_name": "Kevin",
-      "last_name": "Wang",
-      "title": "Resident Physician, Anesthesiology",
+      "first_name": "Anirudh",
+      "last_name": "Sharma",
+      "title": "MD Candidate",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/wangkevin5/",
+      "source_url": "https://www.linkedin.com/in/anirudh-sharma-8ab807229/",
       "confidence": "high"
     }
   },
   {
-    "company_name": "Columbia Vagelos College of Physicians and Surgeons",
-    "domain": "vagelos.columbia.edu",
+    "company_name": "Johns Hopkins School of Medicine",
+    "domain": "hopkinsmedicine.org",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "New York",
-    "state": "NY",
-    "suggested_title": "Erik Williams - MD Candidate at Columbia Vagelos College of Physicians and Surgeons",
-    "prospect_notes": "Erik Williams is a Cornell University undergraduate alumnus (approximately Cornell class of 2023) and is currently an MD Candidate at Columbia University Vagelos College of Physicians and Surgeons. At Cornell he conducted undergraduate research in the Fischbach Lab from January 2020 through May 2023, and served as a Teaching Assistant for BIOMI 2100 (introductory microbiology) from January to May 2023. His Cornell extracurriculars included Engineers Without Borders and Design by Biomedical Undergraduate Teams (DBTU). He also holds a JD from Cornell Law School and passed the New York Bar Exam, indicating a concurrent JD/MD or sequential degree pathway. His research interests include fibrotic extracellular matrix deposition and tumor invasion in the context of cancer metastasis. He has also worked at Angelini Ventures, a life sciences venture capital firm, applying data-driven approaches.",
+    "city": "Baltimore",
+    "state": "MD",
+    "suggested_title": "Eumee Cha - Pathology Resident at Johns Hopkins",
+    "prospect_notes": "Eumee Cha is a Cornell University undergraduate alumna who majored in Biology and Spanish and is from Princeton, New Jersey. She graduated from Johns Hopkins School of Medicine, where she served as president of PATHways (pathology interest group) and joined Dr. Tamara Lotan's lab to study AI/deep learning algorithms for predicting metastatic outcomes in prostate cancer patients. She is currently completing AP/CP (Anatomic Pathology/Clinical Pathology) residency training at Johns Hopkins. She also taught English as a Second Language in Baltimore City and has 7 research works with 27 citations on ResearchGate.",
     "_enrichment": {
       "found": true,
-      "first_name": "Erik",
-      "last_name": "Williams",
-      "title": "MD Candidate",
+      "first_name": "Eumee",
+      "last_name": "Cha",
+      "title": "Pathology Resident (AP/CP)",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/edw52/",
+      "source_url": "https://pathology.jhu.edu/education/residency/our-residents",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Johns Hopkins School of Medicine",
+    "domain": "hopkinsmedicine.org",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Baltimore",
+    "state": "MD",
+    "suggested_title": "Seth Moore - Pathology Resident (MD/PhD) at Johns Hopkins",
+    "prospect_notes": "Seth Moore is a Cornell University alumnus (B.S. Biological Sciences, Class of 2015) from Syracuse, New York. He joined the Harrington Lab at Cornell in summer 2014 doing field research on mosquito identification, then worked as a laboratory technician at Syracuse University investigating the therapeutic potential of Vitamin D in a murine model before pursuing his MD/PhD. He completed his combined MD and PhD training at Johns Hopkins School of Medicine and is currently a pathology resident at Johns Hopkins. His physician-scientist training reflects a strong research trajectory beginning at Cornell.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Seth",
+      "last_name": "Moore",
+      "title": "Pathology Resident (MD/PhD)",
+      "email": "",
+      "source_url": "https://pathology.jhu.edu/education/residency/our-residents",
       "confidence": "high"
     }
   }
