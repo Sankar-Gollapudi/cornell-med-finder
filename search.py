@@ -306,13 +306,20 @@ QUALIFICATION CRITERIA — HARD REQUIREMENTS (every result MUST meet ALL of thes
 {QUALIFICATION}
 {exclusion_block}
 
-SEARCH STRATEGY:
-- Search LinkedIn for specific people matching the criteria
+SEARCH STRATEGY — be thorough and creative:
+- Search LinkedIn: "Cornell University" + "[med school name]" + "MD candidate" or "medical student"
+- Search for Match Day announcements from the last 3 years (2024, 2025, 2026) — these list students by name and where they matched
+- Search Google: "Cornell" + "[med school name]" + "class of 2025" or "class of 2026" or "class of 2027" or "class of 2028"
 - Search university alumni directories, department pages, and "Where Are They Now" pages
-- Search Google for "{industry_group}" with relevant keywords
+- Search medical school class profile pages and student directories
+- Search Cornell pre-med advising spotlights and Cornell alumni magazine features on recent grads
+- Search Cornell Daily Sun (student newspaper) articles about students accepted to med school
+- Search student org pages, research lab member lists that show current trainees
 - Cross-reference multiple sources to verify each result
 - Only include results where you found concrete evidence
-- Try DIFFERENT search queries than obvious ones — dig deeper into class profiles, student org pages, research lab member lists, residency match announcements
+- Try DIFFERENT search queries than obvious ones — dig deeper
+- STRONGLY PREFER recent graduates and current students (Cornell class of 2018-2026)
+- For EVERY person, include a verifiable source URL in prospect_notes (LinkedIn preferred)
 
 For each result, the company_name field should be the ORGANIZATION/INSTITUTION name (e.g. the medical school).
 The suggested_title should describe the PERSON's role or status, using their FULL LEGAL NAME (e.g. "Jerry William Allen" not "J.W. Allen", "Robert Smith" not "Rob Smith"). Never use initials or abbreviations for names.
@@ -331,26 +338,31 @@ Where:
 
 VERIFY_SYSTEM = (
     "You are a person verification assistant. Given a person description, verify "
-    "they are real by finding any credible source — LinkedIn, news articles, "
-    "university directories, publications, etc. Do ONE web search and return the "
-    "result. Be fast."
+    "they are real by finding a credible source — STRONGLY prefer LinkedIn profiles, "
+    "but also check university directories, news articles, publications, etc. "
+    "Try up to 3 searches. A source_url is REQUIRED for verification."
 )
 
 
 def build_verify_prompt(title: str, org: str, notes: str) -> str:
-    return f"""Verify this person is real:
+    return f"""Verify this person is real and find a source URL:
 Role: {title} at {org}
 Background: {notes[:200]}
 
-Do ONE search for "{title}" "{org}" — check LinkedIn, news articles, university pages, publications, or any credible source.
+Search strategy — try up to 3 searches:
+1. Search LinkedIn for "{title}" at "{org}" — this is the BEST source, try hard to find their LinkedIn profile
+2. If no LinkedIn, search the institution's website/directory for this person
+3. If still nothing, do a general web search for their name + institution
 
 Return JSON in a ```json block:
 {{"found": true/false, "source_url": "https://...", "first_name": "...", "last_name": "...", "title": "...", "confidence": "high/medium/low"}}
 
-- "source_url" must be the URL where you found evidence of this person.
+- "source_url" is REQUIRED — it must be the actual URL where you found evidence (LinkedIn profile, directory page, article).
+- STRONGLY prefer LinkedIn URLs (e.g. https://linkedin.com/in/...) — they are stable and verifiable.
+- Do NOT return found: true without a real source_url.
 - IMPORTANT: Use the person's full legal first name, NOT initials or abbreviations (e.g. "Jerry William" not "J.W.", "Robert" not "Rob").
-- confidence is "high" if you found a direct profile/directory listing, "medium" if mentioned in an article or publication.
-If not found in one search, return {{"found": false}}."""
+- confidence is "high" if you found a direct LinkedIn profile or directory listing, "medium" if mentioned in an article or publication.
+If not found after 3 searches, return {{"found": false}}."""
 
 
 # ── VALIDATION & DEDUP ───────────────────────────────────────────────────
