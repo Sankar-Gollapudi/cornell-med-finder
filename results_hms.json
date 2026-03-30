@@ -1,0 +1,59 @@
+[
+  {
+    "company_name": "Harvard Medical School",
+    "domain": "hms.harvard.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Boston",
+    "state": "MA",
+    "suggested_title": "Sofia Hu - Thoracic Surgery Resident (HMS MD 2024)",
+    "prospect_notes": "Sofia Hu earned her BA from Cornell University in 2017 (Biological Sciences), then a PhD from MIT in Biology in 2022 (dissertation: 'Transcription factor antagonism regulates heterogeneity in embryonic stem cell states'). She completed her MD at Harvard Medical School in 2024 through the Harvard-MIT MD-PhD (HST) program. She matched into a Thoracic Surgery residency at Stanford Health Care in 2024. At Stanford, she is part of the Integrated Cardiothoracic Surgical Training Program. She has described interest in academic cardiothoracic surgery and the intersection of high technical demand and clinical research.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Sofia",
+      "last_name": "Hu",
+      "title": "Thoracic Surgery Resident, Stanford Health Care (HMS MD 2024)",
+      "email": "",
+      "source_url": "https://med.stanford.edu/profiles/sofia-hu",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Harvard Medical School",
+    "domain": "hms.harvard.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Boston",
+    "state": "MA",
+    "suggested_title": "Victoria Alkin - PhD Candidate in Biological and Biomedical Sciences",
+    "prospect_notes": "Victoria Alkin earned her BS from Cornell University in 2023, concentrating in Neurobiology & Behavior (College of Agriculture and Life Sciences). At Cornell she was Editor-in-Chief of the Cornell Undergraduate Research Journal, Committee Chair of the Cornell Undergraduate Research Board, and conducted research in the Deitcher Lab studying neuroscience. She also interned at the Allen Institute for Brain Science and shadowed surgery at a hospital. After graduating Cornell with plans for medical school, she enrolled in Harvard Medical School's PhD Program in Biological and Biomedical Sciences (BBS), where she is studying aging in the Sinclair Lab at the Blavatnik Institute of Genetics.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Victoria",
+      "last_name": "Alkin",
+      "title": "PhD Candidate, Biological and Biomedical Sciences, Harvard Medical School",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/victoria-alkin/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Harvard Medical School",
+    "domain": "hms.harvard.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Boston",
+    "state": "MA",
+    "suggested_title": "Michael Cesar - MD Candidate at Harvard Medical School",
+    "prospect_notes": "Michael Cesar is an MD Candidate at Harvard Medical School, located in Boston with 500+ LinkedIn connections. He appeared in LinkedIn searches combining Cornell University and Harvard Medical School MD Candidate queries, suggesting a Cornell undergraduate background, though his specific undergraduate institution and graduation year could not be independently verified through public web sources. His LinkedIn profile is associated with Harvard Medical School for both experience and education. Further verification of Cornell undergraduate status recommended before outreach.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Michael",
+      "last_name": "Cesar",
+      "title": "MD Candidate, Harvard Medical School",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/michael-cesar-aa04251ab/",
+      "confidence": "medium"
+    }
+  }
+]
