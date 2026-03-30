@@ -1,39 +1,20 @@
 [
   {
-    "company_name": "Duke University School of Medicine",
-    "domain": "medschool.duke.edu",
+    "company_name": "Mayo Clinic Alix School of Medicine",
+    "domain": "college.mayo.edu",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Durham",
-    "state": "NC",
-    "suggested_title": "David Labib - MD/PhD Student (MSTP) at Duke University School of Medicine",
-    "prospect_notes": "David Labib graduated from Cornell University in 2022 and is currently a GS2 (Graduate School Year 2) student in Duke's Medical Scientist Training Program (MSTP), pursuing a combined MD/PhD. His research interests include neurobiology, developmental and cell biology, and neuro-immune interactions, with his PhD in the Molecular Cancer Biology program under mentor Micah Luftig, PhD. As an undergraduate at Cornell, he served as a teaching assistant in the Department of Nutritional Sciences and conducted research on reactive astrocytes at The New York Stem Cell Foundation and in the Han Lab at the Weill Institute for Cell and Molecular Biology. He is listed on Duke's official MSTP outreach directory under Cornell University with contact email david.labib@duke.edu. LinkedIn is publicly available and confirmed active.",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "suggested_title": "Jayant Gupta - MD Student at Mayo Clinic Alix School of Medicine",
+    "prospect_notes": "Jayant Gupta is an M1 medical student at Mayo Clinic Alix School of Medicine (enrolled 2025–2029), currently based in Paradise Valley, AZ. He completed his BS in Biometry and Statistics from Cornell University (Ithaca campus) in 2023–2024, confirming his Cornell undergrad background. Prior to medical school, he worked as a statistician at Sonoran Spine (researching revision spinal fusion surgery outcomes) and at Mayo Clinic itself in a research capacity. He published and presented as first author at the American Thoracic Society International Conference in May 2024, exploring a rare combination of pneumatosis. He also co-authored work presented at the 2023 Society for Melanoma Research Congress. His Cornell undergrad and Mayo Clinic Alix MD enrollment are both confirmed via his publicly indexed LinkedIn profile.",
     "_enrichment": {
       "found": true,
-      "first_name": "David",
-      "last_name": "Labib",
-      "title": "MD/PhD Student (MSTP GS2)",
-      "email": "david.labib@duke.edu",
-      "source_url": "https://www.linkedin.com/in/david-labib/",
-      "confidence": "high"
-    }
-  },
-  {
-    "company_name": "Duke University School of Medicine",
-    "domain": "medschool.duke.edu",
-    "industry": "Medical Education",
-    "size": "1001-5000",
-    "city": "Durham",
-    "state": "NC",
-    "suggested_title": "Ethan Agritelley - MS4 MD Student at Duke University School of Medicine",
-    "prospect_notes": "Ethan Agritelley graduated from Cornell University's College of Human Ecology (on the 2019-20 football roster, likely Cornell class of 2021 or 2022) where he played varsity football as a kicker, and is currently a fourth-year MD student (MS4) at Duke University School of Medicine. He grew up in Lake Oswego, Oregon (outside Portland) and matriculated to Duke for medical school. He is active in surgical oncology research, co-authoring a 2024 AACR abstract on single-cell and spatial immune analysis in pancreatic ductal adenocarcinoma (PDAC) and presenting at SSO2025 on a localized pancreatic cancer trial from the Duke Surgical Oncology group. He also ran the 2024 Boston Marathon as a Dana-Farber Cancer Institute fundraiser while a third-year student. Confirmed via Cornell Athletics roster, Medicine in Motion Duke chapter profile, and AACR/SSO2025 publications.",
-    "_enrichment": {
-      "found": true,
-      "first_name": "Ethan",
-      "last_name": "Agritelley",
-      "title": "MD Student (MS4)",
+      "first_name": "Jayant",
+      "last_name": "Gupta",
+      "title": "MD Student (M1), Mayo Clinic Alix School of Medicine",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/ethan-agritelley-3bbb33126",
+      "source_url": "https://www.linkedin.com/in/jayantgupta75/",
       "confidence": "high"
     }
   }
