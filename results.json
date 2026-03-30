@@ -1,58 +1,20 @@
 [
   {
-    "company_name": "Johns Hopkins School of Medicine",
-    "domain": "hopkinsmedicine.org",
+    "company_name": "Stanford University School of Medicine",
+    "domain": "med.stanford.edu",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Baltimore",
-    "state": "MD",
-    "suggested_title": "Anirudh Sharma - MD Candidate at Johns Hopkins School of Medicine",
-    "prospect_notes": "Anirudh Sharma is a Cornell University Class of 2023 alumnus who majored in biology (neurobiology) and is now an MD candidate at The Johns Hopkins University School of Medicine in Baltimore. At Cornell, he served as a student advisor at the Office of Undergraduate Biology, providing tutoring in biology and chemistry, and wrote for the Science section of the Cornell Daily Sun covering faculty research. His Cornell CALS student advisor profile confirms Class of 2023. He is now pursuing his MD at Hopkins, where he is building on his neurobiology background.",
+    "city": "Stanford",
+    "state": "CA",
+    "suggested_title": "Longsha Liu - MD Candidate at Stanford School of Medicine",
+    "prospect_notes": "Longsha Liu is an MD candidate at Stanford University School of Medicine and a 2022 Knight-Hennessy Scholar. He graduated Phi Beta Kappa from Cornell University (Ithaca) with a B.S. in Neurobiology and a minor in Business for the Life Sciences, receiving the Cornell Hunter Rawlings Presidential Research Scholar award and the 2021 Cornell Student Business of the Year award. At Cornell, he co-founded Cornell Biomedical Device and Vita Innovations, a MedTech startup focused on patient monitoring for emergency medicine. Before Stanford, he completed a SENS Research Fellowship at Harvard Medical School focused on novel glioblastoma therapeutic design. At Stanford, he co-teaches courses on Generative AI in Healthcare (MED213 and MED216) and is active in the Society for Academic Emergency Medicine.",
     "_enrichment": {
       "found": true,
-      "first_name": "Anirudh",
-      "last_name": "Sharma",
-      "title": "MD Candidate",
+      "first_name": "Longsha",
+      "last_name": "Liu",
+      "title": "MD Candidate, Knight-Hennessy Scholar",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/anirudh-sharma-8ab807229/",
-      "confidence": "high"
-    }
-  },
-  {
-    "company_name": "Johns Hopkins School of Medicine",
-    "domain": "hopkinsmedicine.org",
-    "industry": "Medical Education",
-    "size": "1001-5000",
-    "city": "Baltimore",
-    "state": "MD",
-    "suggested_title": "Eumee Cha - Pathology Resident at Johns Hopkins",
-    "prospect_notes": "Eumee Cha is a Cornell University undergraduate alumna who majored in Biology and Spanish and is from Princeton, New Jersey. She graduated from Johns Hopkins School of Medicine, where she served as president of PATHways (pathology interest group) and joined Dr. Tamara Lotan's lab to study AI/deep learning algorithms for predicting metastatic outcomes in prostate cancer patients. She is currently completing AP/CP (Anatomic Pathology/Clinical Pathology) residency training at Johns Hopkins. She also taught English as a Second Language in Baltimore City and has 7 research works with 27 citations on ResearchGate.",
-    "_enrichment": {
-      "found": true,
-      "first_name": "Eumee",
-      "last_name": "Cha",
-      "title": "Pathology Resident (AP/CP)",
-      "email": "",
-      "source_url": "https://pathology.jhu.edu/education/residency/our-residents",
-      "confidence": "high"
-    }
-  },
-  {
-    "company_name": "Johns Hopkins School of Medicine",
-    "domain": "hopkinsmedicine.org",
-    "industry": "Medical Education",
-    "size": "1001-5000",
-    "city": "Baltimore",
-    "state": "MD",
-    "suggested_title": "Seth Moore - Pathology Resident (MD/PhD) at Johns Hopkins",
-    "prospect_notes": "Seth Moore is a Cornell University alumnus (B.S. Biological Sciences, Class of 2015) from Syracuse, New York. He joined the Harrington Lab at Cornell in summer 2014 doing field research on mosquito identification, then worked as a laboratory technician at Syracuse University investigating the therapeutic potential of Vitamin D in a murine model before pursuing his MD/PhD. He completed his combined MD and PhD training at Johns Hopkins School of Medicine and is currently a pathology resident at Johns Hopkins. His physician-scientist training reflects a strong research trajectory beginning at Cornell.",
-    "_enrichment": {
-      "found": true,
-      "first_name": "Seth",
-      "last_name": "Moore",
-      "title": "Pathology Resident (MD/PhD)",
-      "email": "",
-      "source_url": "https://pathology.jhu.edu/education/residency/our-residents",
+      "source_url": "https://knight-hennessy.stanford.edu/people/longsha-liu",
       "confidence": "high"
     }
   }
