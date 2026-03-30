@@ -1,0 +1,78 @@
+[
+  {
+    "company_name": "Icahn School of Medicine at Mount Sinai",
+    "domain": "icahn.mssm.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "New York",
+    "state": "NY",
+    "suggested_title": "Nnamdi Igwe - MD Graduate (Internal Medicine Resident) at Icahn School of Medicine at Mount Sinai",
+    "prospect_notes": "Nnamdi Igwe graduated from Cornell University in May 2021 with a B.S. in Human Development from the College of Human Ecology, where he was a Hunter R. Rawlings III Presidential Research Scholar. He was born and raised in Nigeria and conducted undergraduate research on aging and medical decision-making in the Laboratory of Rational Decision Making under Prof. Valerie Reyna. He entered the Icahn School of Medicine at Mount Sinai MD program in July 2021 and graduated with his MD in May 2025. At Mount Sinai he led quality improvement initiatives focused on patients with limited English proficiency, developed multilingual communication tools for hospitalized patients, and received a $25,000 scholarship from the Society of Hospital Medicine in 2024. He is now completing an Internal Medicine residency at The Mount Sinai Hospital and aims to pursue academic hospital medicine in both the U.S. and Nigeria.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Nnamdi",
+      "last_name": "Igwe",
+      "title": "Internal Medicine Resident at The Mount Sinai Hospital (MD Graduate)",
+      "email": "",
+      "source_url": "https://icahnhonors.com/nnamdi-igwe",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Icahn School of Medicine at Mount Sinai",
+    "domain": "icahn.mssm.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "New York",
+    "state": "NY",
+    "suggested_title": "Simran Malhotra - MD/MSCR Graduate (General Surgery Resident) at Icahn School of Medicine at Mount Sinai",
+    "prospect_notes": "Simran Malhotra graduated summa cum laude from Cornell University with a B.S. in Global Public Health Sciences and minors in Creative Writing and Healthy Futures. She was accepted into Icahn School of Medicine at Mount Sinai's FlexMed Early Assurance Program as a Cornell sophomore and began her medical training in 2020. She completed a dual MD-MSCR (Master of Science in Clinical Research) degree, earning an NIH TL1 predoctoral training grant through the Patient-Oriented Research Training and Leadership Program. Her MSCR thesis, mentored by Dr. Audree B. Tadros at Memorial Sloan Kettering Cancer Center, examined the impact of Medicaid expansion on management and mortality of locally advanced breast cancer. She was inducted into the Gold Humanism Honor Society and received an Icahn Achievement Award in 2025. She is now completing a General Surgery residency at Rutgers Robert Wood Johnson.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Simran",
+      "last_name": "Malhotra",
+      "title": "General Surgery Resident (MD/MSCR Graduate)",
+      "email": "",
+      "source_url": "https://icahnhonors.com/simran-malhotra-2025",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Icahn School of Medicine at Mount Sinai",
+    "domain": "icahn.mssm.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "New York",
+    "state": "NY",
+    "suggested_title": "Sushruta Iruvanti - MD Graduate (Class of 2025) at Icahn School of Medicine at Mount Sinai",
+    "prospect_notes": "Sushruta Iruvanti (also listed as Sushruta Krishna Iruvanti) graduated from Cornell University's College of Agriculture and Life Sciences with a B.S. in Biological Engineering, receiving the Paul Schreurs Memorial Award for excellence in undergraduate research at the 2019 CALS Dean's Award Ceremony. At Cornell, they were involved in the Student Assembly, Biomedical Engineering Research, and Engineers Without Borders, and served as a TA for biofluid mechanics and molecular engineering courses. They then completed the MD program at Icahn School of Medicine at Mount Sinai, listed in the 2025 commencement program as a candidate for the Doctor of Medicine degree. Research interests span medicine, bioengineering, data science, and business, with published work in cancer biology and COVID-19 CRISPR screens. They have also held a Biomedical Data Science fellowship at Icahn School of Medicine and roles at NYU Langone, Microsoft, and Palantir.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Sushruta",
+      "last_name": "Iruvanti",
+      "title": "MD Graduate (Class of 2025)",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/sushruta-iruvanti/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Icahn School of Medicine at Mount Sinai",
+    "domain": "icahn.mssm.edu",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "New York",
+    "state": "NY",
+    "suggested_title": "Vivian Utti - MD Student at Icahn School of Medicine at Mount Sinai",
+    "prospect_notes": "Vivian Utti earned a B.S. in Computational Biology and Computer Information Science from Cornell University, where she worked as a Study Skills Facilitator, Statistics Tutor, and Research Assistant. As a Cornell undergraduate she participated in the Ma'ayan Laboratory's Summer Research Program at Icahn School of Medicine at Mount Sinai in 2018, working on the ChEA3 Transcription Factor Enrichment Analysis project. She subsequently enrolled in the MD program at Icahn School of Medicine at Mount Sinai. Alongside her medical training she has held a Biomedical Data Science Fellowship at Icahn School of Medicine, participated in the Clinton Global Initiative, held venture capital fellowships at Northpond Ventures and Artis Ventures, a Medical/Product Fellowship at Doximity, and completed internships at Schrödinger and Palantir Technologies. Her interests span AI, biomedical data science, and health technology.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Vivian",
+      "last_name": "Utti",
+      "title": "MD Student",
+      "email": "",
+      "source_url": "https://www.linkedin.com/in/vivian-utti/",
+      "confidence": "medium"
+    }
+  }
+]
