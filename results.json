@@ -1,20 +1,39 @@
 [
   {
-    "company_name": "Mayo Clinic Alix School of Medicine",
-    "domain": "college.mayo.edu",
+    "company_name": "Johns Hopkins School of Medicine",
+    "domain": "hopkinsmedicine.org",
     "industry": "Medical Education",
     "size": "1001-5000",
-    "city": "Scottsdale",
-    "state": "AZ",
-    "suggested_title": "Jayant Gupta - MD Student at Mayo Clinic Alix School of Medicine",
-    "prospect_notes": "Jayant Gupta is an M1 medical student at Mayo Clinic Alix School of Medicine (enrolled 2025–2029), currently based in Paradise Valley, AZ. He completed his BS in Biometry and Statistics from Cornell University (Ithaca campus) in 2023–2024, confirming his Cornell undergrad background. Prior to medical school, he worked as a statistician at Sonoran Spine (researching revision spinal fusion surgery outcomes) and at Mayo Clinic itself in a research capacity. He published and presented as first author at the American Thoracic Society International Conference in May 2024, exploring a rare combination of pneumatosis. He also co-authored work presented at the 2023 Society for Melanoma Research Congress. His Cornell undergrad and Mayo Clinic Alix MD enrollment are both confirmed via his publicly indexed LinkedIn profile.",
+    "city": "Baltimore",
+    "state": "MD",
+    "suggested_title": "Elisabeth Abeles - MD Graduate (Class of 2023), General Surgery Resident",
+    "prospect_notes": "Elisabeth Abeles completed her BS in Arts and Sciences at Cornell University as a Hunter R. Rawlings III Cornell Presidential Research Scholar and member of the Singh Lab (Immunotherapy and Cell Engineering Laboratory) in the Department of Mechanical and Aerospace Engineering. She was accepted to Johns Hopkins School of Medicine in 2019 and earned her MD with the Class of 2023. She conducted immunotherapy and biomedical engineering research as an undergrad and medical student. She is now a General Surgery Resident at Beth Israel Deaconess Medical Center / Harvard Medical School and also lists UCSF Department of Surgery experience. Her Cornell undergrad and Hopkins MD are confirmed by the Singh Lab Cornell blog post (June 2019) and the Singh Lab Georgia Tech alumni page.",
     "_enrichment": {
       "found": true,
-      "first_name": "Jayant",
-      "last_name": "Gupta",
-      "title": "MD Student (M1), Mayo Clinic Alix School of Medicine",
+      "first_name": "Elisabeth",
+      "last_name": "Abeles",
+      "title": "MD, General Surgery Resident (Hopkins MD Class of 2023)",
       "email": "",
-      "source_url": "https://www.linkedin.com/in/jayantgupta75/",
+      "source_url": "https://www.linkedin.com/in/elisabeth-abeles-m-d-98528498/",
+      "confidence": "high"
+    }
+  },
+  {
+    "company_name": "Johns Hopkins School of Medicine",
+    "domain": "hopkinsmedicine.org",
+    "industry": "Medical Education",
+    "size": "1001-5000",
+    "city": "Baltimore",
+    "state": "MD",
+    "suggested_title": "Kate Schole - MD/PhD Student, MSTP Biochemistry (Entering Class of 2019)",
+    "prospect_notes": "Kate Schole attended Cornell University for her undergraduate degree and matriculated into the Johns Hopkins University MD-PhD MSTP program with the entering class of 2019. Her graduate program is Biochemistry, Cellular and Molecular Biology, with advisor M. Anderson. The Hopkins MSTP is one of the top NIH-funded physician-scientist training programs in the nation, providing full tuition and stipend. She is a current MD/PhD student combining medical training with doctoral research in biochemistry. Her Cornell undergrad and Hopkins MD/PhD enrollment are confirmed by the official Johns Hopkins MSTP entering class webpage listing her by name, institution, and program.",
+    "_enrichment": {
+      "found": true,
+      "first_name": "Kate",
+      "last_name": "Schole",
+      "title": "MD/PhD Student, Biochemistry, Cellular and Molecular Biology (MSTP, Entering Class of 2019)",
+      "email": "",
+      "source_url": "https://mdphd.johnshopkins.edu/class2019/",
       "confidence": "high"
     }
   }
